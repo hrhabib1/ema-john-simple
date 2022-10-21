@@ -16,3 +16,14 @@
 .header a:hover{
     color: orangered;
 }
+.btn-logOut{
+    background-color: #1C2B35;
+    margin:0 20px;
+    padding: 10px;
+    color: #ffffff;
+    border: none;
+    font-size: 17px;
+}
+.btn-logOut:hover{
+    color: orangered;
+}
